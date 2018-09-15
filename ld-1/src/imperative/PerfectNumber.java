@@ -4,10 +4,10 @@ import java.util.Set;
 import java.util.HashSet;
 
 public class PerfectNumber {
-    public enum STATE { ABUNDANT, DEFICIENT, PERFECT }
+    public enum STATE { ABUNDANT, DEFICIENT, PERFECT, ERROR }
 
     public static STATE detect(int number) {
-        return process(number);
+        return (number > 0 ? process(number) : STATE.ERROR);
     }
 
     public static Set<Integer> divisors(int number) {
