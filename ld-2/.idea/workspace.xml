@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54b8eaa0-d826-4bad-a0f1-f2df2f453736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/imperative/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ld-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ld-1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ld-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ld-2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ld-2/imperative/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ld-2/imperative/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/imperative/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ld-2/imperative/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ld-2/imperative/SolutionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/imperative/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/imperative/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/imperative/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/imperative/SolutionTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,12 +18,14 @@
     <session id="309950883">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -41,12 +41,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="17" />
-          <entry key="java" value="905" />
+          <entry key="java" value="1116" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="905" />
+          <entry key="JAVA" value="1116" />
           <entry key="PLAIN_TEXT" value="17" />
         </counts>
       </usages-collector>
@@ -54,24 +54,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/imperative/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-              <folding>
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/imperative/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
+            <state relative-caret-position="285">
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,15 +92,15 @@
       <list>
         <option value="$PROJECT_DIR$/src/imperative/MainTest.java" />
         <option value="$PROJECT_DIR$/src/imperative/Main.java" />
-        <option value="$PROJECT_DIR$/src/imperative/Solution.java" />
         <option value="$PROJECT_DIR$/src/imperative/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/imperative/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="217" />
+    <option name="x" value="222" />
     <option name="y" value="23" />
-    <option name="width" value="1223" />
+    <option name="width" value="1215" />
     <option name="height" value="827" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -114,6 +110,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,7 +133,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -144,7 +140,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537780797816" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537875305966" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -158,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.SolutionTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="imperative.Solution" />
       <module name="ld-2" />
@@ -183,14 +179,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SolutionTest.test11ToBe2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ld-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="imperative.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="imperative" />
+      <option name="MAIN_CLASS_NAME" value="imperative.SolutionTest" />
+      <option name="METHOD_NAME" value="test11ToBe2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.SolutionTest" />
+      <item itemvalue="JUnit.SolutionTest.test11ToBe2" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.SolutionTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.SolutionTest.test11ToBe2" />
       </list>
     </recent_temporary>
   </component>
@@ -208,27 +222,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MainTest - 2018.09.24 at 12h 10m 34s.xml">
-      <configuration name="MainTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2018.09.25 at 13h 16m 58s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainTest - 2018.09.24 at 12h 11m 50s.xml">
-      <configuration name="MainTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2018.09.25 at 13h 29m 39s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainTest - 2018.09.24 at 12h 12m 43s.xml">
-      <configuration name="MainTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_test11ToBe2 - 2018.09.25 at 13h 49m 31s.xml">
+      <configuration name="SolutionTest.test11ToBe2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainTest - 2018.09.24 at 12h 13m 05s.xml">
-      <configuration name="MainTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2018.09.25 at 14h 00m 05s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainTest - 2018.09.24 at 12h 16m 13s.xml">
-      <configuration name="MainTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2018.09.25 at 14h 00m 29s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2018.09.25 at 14h 08m 56s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2018.09.25 at 14h 09m 07s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2018.09.25 at 14h 30m 00s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2018.09.25 at 14h 34m 11s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2018.09.25 at 14h 34m 46s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="217" y="23" width="1223" height="827" extended-state="0" />
+    <frame x="222" y="23" width="1215" height="827" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2624894" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15260017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -237,7 +266,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3292517" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292517" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -245,7 +274,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3292517" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -288,32 +317,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/imperative/Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/imperative/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" />
+        <state relative-caret-position="285">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/imperative/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/imperative/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

@@ -5,13 +5,13 @@ import static junit.framework.TestCase.assertEquals;
 
 public class SolutionTest {
     @Test
-    public void test11ToBe2() { assertEquals(2, Solution.superDigit(11)); }
+    public void test11ToBe2() { assertEquals(2, Solution.superDigit(9875)); }
 
     @Test
     public void test2ToBe2() { assertEquals(2, Solution.superDigit(2)); }
 
     @Test
-    public void test12345ToBe15() { assertEquals(15, Solution.superDigit(12345)); }
+    public void test12345ToBe15() { assertEquals(6, Solution.superDigit(12345)); }
 
     @Test
     public void test513ToBe9() { assertEquals(9, Solution.superDigit(513)); }
